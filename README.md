@@ -1,6 +1,6 @@
 # [demoqa](https://demoqa.com/automation-practice-form) web automation testing
 
-## Tools:
+## Tools used:
 
 ### • Selenium Web Driver
 
@@ -14,7 +14,7 @@
 
 ## Tested functionalities:
 
-###  1.[Form automation](https://demoqa.com/automation-practice-form) and saved datas into a JSON file
+###  1.[Form automation](https://demoqa.com/automation-practice-form) and saved datas (name,email,gender,mobile) into a JSON file
 
 
 
