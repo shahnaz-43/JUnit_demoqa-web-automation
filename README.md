@@ -22,29 +22,23 @@
 
 ![Untitled](https://user-images.githubusercontent.com/102640942/183817088-a8a08dcd-a005-4ff3-9a33-22b0a5cf272d.png)
 
-### *Reports
-![reports](https://user-images.githubusercontent.com/102640942/184291545-4a042edc-f501-4e80-a1df-396e9900b1a6.png)
 
 
 
-
-####  2. Automated Modules
-get(), 
+####  2. Automated Modules 
 getTitle(), 
 writeText(), 
-handleAlert(), 
 selectDate(), 
 keyboardEvent(), 
-selectDropdown(), 
-modalDialog(), 
+selectDropdown(),  
 mouseHover(), 
 actionClick(), 
 takeScreenShot(), 
 uploadFile(), 
-downloadFile(), 
 handleTab(),
-handleWindow(), 
 dataScrap(),
-handleIframe(), 
 
+
+### *Reports
+![reports](https://user-images.githubusercontent.com/102640942/184291545-4a042edc-f501-4e80-a1df-396e9900b1a6.png)
 
