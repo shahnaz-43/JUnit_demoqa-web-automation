@@ -8,11 +8,7 @@
 
 ### • JUint
 
-### • Gradle
-
-
-
-
+### • Gradle </br> </br>
 
 ## Tested functionalities:
 
@@ -27,7 +23,7 @@
 
 
 
-####  2. Automated Modules 
+###  2. Automated Modules 
 getTitle(), 
 writeText(), 
 selectDate(), 
